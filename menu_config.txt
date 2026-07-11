@@ -1,4 +1,5 @@
 
-方案A.模块1|https://ghproxy.cn/https://raw.githubusercontent.com/.../file1.zip
+方案A.模块1|https://github.moeyy.xyz/https://github.com/FXHRSS-Tt/-/raw/refs/heads/main/%E4%B8%80%E9%94%AE%E9%9A%90%E8%97%8F%20by.%E7%B9%81%E5%B0%8F%E8%8A%B1.zip
+
 方案B_模块2|https://ghproxy.cn/https://raw.githubusercontent.com/.../file2.zip
 方案C_模块3|https://ghproxy.cn/https://raw.githubusercontent.com/.../file3.zip
