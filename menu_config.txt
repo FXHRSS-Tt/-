@@ -1,1 +1,4 @@
 
+方案A.模块1|https://ghproxy.cn/https://raw.githubusercontent.com/.../file1.zip
+方案B_模块2|https://ghproxy.cn/https://raw.githubusercontent.com/.../file2.zip
+方案C_模块3|https://ghproxy.cn/https://raw.githubusercontent.com/.../file3.zip
