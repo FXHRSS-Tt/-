@@ -1,2 +1,2 @@
-1|一键隐藏（天玑）|V6.6|https://gitee.com/delicate-blossoms/modulebyfxhydmk/releases/download/V6.4/%E4%B8%80%E9%94%AE%E9%9A%90%E8%97%8F%EF%BC%88%E5%A4%A9%E7%8E%91%EF%BC%89.zip
-2|一键隐藏（麒麟）|V6.6|https://gitee.com/delicate-blossoms/modulebyfxhydmk/releases/download/V6.4/%E4%B8%80%E9%94%AE%E9%9A%90%E8%97%8F(%E9%BA%92%E9%BA%9F%EF%BC%89.zip
+1|一键隐藏（天玑）|V6.6|https://ruby-iota-21.vercel.app/%E4%B8%80%E9%94%AE%E9%9A%90%E8%97%8F%EF%BC%88%E5%A4%A9%E7%8E%91%EF%BC%89.zip
+2|一键隐藏（麒麟）|V6.6|https://ruby-iota-21.vercel.app/%E4%B8%80%E9%94%AE%E9%9A%90%E8%97%8F(%E9%BA%92%E9%BA%9F%EF%BC%89.zip
