@@ -1,1 +1,2 @@
 1|一键隐藏|游戏版本|https://github.com/FXHRSS-Tt/-/releases/download/333/33.zip
+2|一键隐藏|玩机版本|
