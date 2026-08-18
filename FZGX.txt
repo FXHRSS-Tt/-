@@ -1,1 +1,6 @@
 1|时间内核|驱动|https://github.com/FXHRSS-Tt/-/blob/main/Kairos_Driver_Loader_Release_856fd12.sh
+2|林羽内核|驱动|https://github.com/FXHRSS-Tt/-/blob/main/LinYuDriverLoader.Ver6.0.sh
+3|林羽内核|内核|https://github.com/FXHRSS-Tt/-/blob/main/LinYuKernel.Ver.3.1.4.sh
+4|林羽内核|过频道验证|https://github.com/FXHRSS-Tt/-/blob/main/LinYu%E8%BF%87%E7%94%B5%E6%8A%A5%E9%AA%8C%E8%AF%81.sh
+5|时间内核|内核|https://github.com/FXHRSS-Tt/-/blob/main/TIME_Cloud_Loader_Release_1732727.sh
+6|enen内核|https://github.com/FXHRSS-Tt/-/blob/main/%E5%97%AF%E5%97%AF%E5%90%AF%E5%8A%A8_lib20260818_005220.sh
