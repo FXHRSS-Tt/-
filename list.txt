@@ -1,0 +1,4 @@
+1|一键隐藏|游戏版本|https://gitcode.com/FXH333999666/-/releases/download/%E6%A8%A1%E5%9D%97/%E5%85%AB%E6%9C%88%E4%BA%8C%E5%8D%81%E4%B8%80%E6%9C%80%E6%96%B0%E9%9A%90%E8%97%8F.zip
+2|一键隐藏|玩机版本|https://gitcode.com/FXH333999666/-/releases/download/%E6%A8%A1%E5%9D%97/%E4%B8%80%E9%94%AE%E9%9A%90%E8%97%8F%E6%A8%A1%E5%9D%97%E7%8E%A9%E6%9C%BA%E7%89%88.zip
+3|一键隐藏|玩机伪回锁免解版本|https://gitcode.com/FXH333999666/-/releases/download/%E6%A8%A1%E5%9D%97/%E4%B8%80%E9%94%AE%E9%9A%90%E8%97%8F%E6%A8%A1%E5%9D%97%E6%B8%B8%E6%88%8F%E7%89%88%20-%20%E5%85%8D%E8%A7%A3%E4%BC%AA%E5%9B%9E%E9%94%81.zip
+4|月虹改机型|黑名单设备建议安装|https://gitcode.com/FXH333999666/-/releases/download/%E6%A8%A1%E5%9D%97/%E6%9C%88%E8%99%B9%E6%B8%B8%E6%88%8F%E5%8A%A9%E6%89%8B-v1.4.1.zip
